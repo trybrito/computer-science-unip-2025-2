@@ -11,3 +11,4 @@ height = 1.72
 
 print('Altura {0:.2f}'.format(height))
 print(name, city, sep='-')
+
